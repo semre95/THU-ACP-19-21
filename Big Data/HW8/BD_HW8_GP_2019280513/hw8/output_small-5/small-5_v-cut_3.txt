@@ -1,0 +1,12 @@
+Partition 0
+1
+5
+3
+Partition 1
+2
+0
+0
+Partition 2
+2
+3
+2

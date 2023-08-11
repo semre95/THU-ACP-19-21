@@ -1,0 +1,32 @@
+Partition 0
+5
+5
+5
+Partition 1
+0
+0
+0
+Partition 2
+0
+0
+0
+Partition 3
+0
+0
+0
+Partition 4
+0
+0
+0
+Partition 5
+0
+0
+0
+Partition 6
+0
+0
+0
+Partition 7
+0
+0
+0
