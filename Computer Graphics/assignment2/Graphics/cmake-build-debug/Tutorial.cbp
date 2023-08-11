@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Tutorial"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\glfw3\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tutorial">
+				<Option output="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Tutorial" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/include"/>
+					<Add directory="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/include/SOIL"/>
+					<Add directory="/Library/Frameworks/Mono.framework/Headers"/>
+					<Add directory="/usr/local/include/freetype2"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/OpenGL.framework"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tutorial"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tutorial/fast">
+				<Option output="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Tutorial" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/include"/>
+					<Add directory="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/include/SOIL"/>
+					<Add directory="/Library/Frameworks/Mono.framework/Headers"/>
+					<Add directory="/usr/local/include/freetype2"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/OpenGL.framework"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tutorial/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="glad">
+				<Option output="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/libglad.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/include"/>
+					<Add directory="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/include/SOIL"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 glad"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="glad/fast">
+				<Option output="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/libglad.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/include"/>
+					<Add directory="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/include/SOIL"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 glad/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SOIL">
+				<Option output="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/libSOIL.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/include"/>
+					<Add directory="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/include/SOIL"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 SOIL"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SOIL/fast">
+				<Option output="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/libSOIL.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/include"/>
+					<Add directory="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/include/SOIL"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 SOIL/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sami/Desktop/Classes/Computer\ Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/src/SOIL/SOIL.c">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/src/SOIL/image_DXT.c">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/src/SOIL/image_helper.c">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/src/SOIL/stb_image_aug.c">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/src/assignment2/assignment2/main.cpp">
+			<Option target="Tutorial"/>
+		</Unit>
+		<Unit filename="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/src/glad/glad.c">
+			<Option target="glad"/>
+		</Unit>
+		<Unit filename="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/../../../../../../../usr/local/lib/cmake/glfw3/glfw3Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\glfw3\"/>
+		</Unit>
+		<Unit filename="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/../../../../../../../usr/local/lib/cmake/glfw3/glfw3ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\glfw3\"/>
+		</Unit>
+		<Unit filename="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/../../../../../../../usr/local/lib/cmake/glfw3/glfw3Targets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\glfw3\"/>
+		</Unit>
+		<Unit filename="/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/../../../../../../../usr/local/lib/cmake/glfw3/glfw3Targets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\glfw3\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

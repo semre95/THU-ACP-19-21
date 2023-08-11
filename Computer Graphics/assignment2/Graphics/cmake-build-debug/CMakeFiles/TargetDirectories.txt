@@ -1,0 +1,5 @@
+/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/CMakeFiles/Tutorial.dir
+/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/CMakeFiles/glad.dir
+/Users/sami/Desktop/Classes/Computer Graphics/CG_HW2_2019280513/Graphics/cmake-build-debug/CMakeFiles/SOIL.dir
