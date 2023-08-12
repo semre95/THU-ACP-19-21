@@ -1,0 +1,9 @@
+You should implement the RubiCube using OpenGL(programmable pipeline)
+1) The whole RubiCube rotates when clicking the mouse left buttom and dragging it
+2) The whole RubiCube changes its scale when scrolling the wheel
+3) A layer of the RubiCube rotates when clicking the mouse right buttom and dragging it
+4) The color or texture of each face in RubiCube are different
+
+
+You should implement all the function with "TODO" in RubiCube.cpp
+The task seems simpler. In this case, the challenge is to understand the code.

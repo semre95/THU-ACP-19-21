@@ -1,0 +1,5 @@
+/Users/sami/Desktop/Classes/Computer Graphics/assignment5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sami/Desktop/Classes/Computer Graphics/assignment5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sami/Desktop/Classes/Computer Graphics/assignment5/cmake-build-debug/CMakeFiles/Tutorial.dir
+/Users/sami/Desktop/Classes/Computer Graphics/assignment5/cmake-build-debug/CMakeFiles/glad.dir
+/Users/sami/Desktop/Classes/Computer Graphics/assignment5/cmake-build-debug/CMakeFiles/SOIL.dir

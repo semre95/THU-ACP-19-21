@@ -1,0 +1,92 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/SOIL/SOIL.h
+
+../include/SOIL/image_DXT.h
+
+../include/SOIL/image_helper.h
+
+../include/SOIL/stb_image_aug.h
+stdio.h
+-
+
+../include/SOIL/stbi_DDS_aug.h
+
+../include/SOIL/stbi_DDS_aug_c.h
+
+/Users/sami/Desktop/Classes/Computer Graphics/assignment3/src/SOIL/SOIL.c
+windows.h
+-
+wingdi.h
+-
+GL/gl.h
+-
+OpenGL/gl.h
+-
+Carbon/Carbon.h
+-
+GL/gl.h
+-
+GL/glx.h
+-
+SOIL.h
+/Users/sami/Desktop/Classes/Computer Graphics/assignment3/src/SOIL/SOIL.h
+stb_image_aug.h
+/Users/sami/Desktop/Classes/Computer Graphics/assignment3/src/SOIL/stb_image_aug.h
+image_helper.h
+/Users/sami/Desktop/Classes/Computer Graphics/assignment3/src/SOIL/image_helper.h
+image_DXT.h
+/Users/sami/Desktop/Classes/Computer Graphics/assignment3/src/SOIL/image_DXT.h
+stdlib.h
+-
+string.h
+-
+
+/Users/sami/Desktop/Classes/Computer Graphics/assignment3/src/SOIL/image_DXT.c
+image_DXT.h
+/Users/sami/Desktop/Classes/Computer Graphics/assignment3/src/SOIL/image_DXT.h
+math.h
+-
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+
+/Users/sami/Desktop/Classes/Computer Graphics/assignment3/src/SOIL/image_helper.c
+image_helper.h
+/Users/sami/Desktop/Classes/Computer Graphics/assignment3/src/SOIL/image_helper.h
+stdlib.h
+-
+math.h
+-
+
+/Users/sami/Desktop/Classes/Computer Graphics/assignment3/src/SOIL/stb_image_aug.c
+stb_image_aug.h
+/Users/sami/Desktop/Classes/Computer Graphics/assignment3/src/SOIL/stb_image_aug.h
+math.h
+-
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+memory.h
+-
+assert.h
+-
+stdarg.h
+-
+stbi_DDS_aug.h
+/Users/sami/Desktop/Classes/Computer Graphics/assignment3/src/SOIL/stbi_DDS_aug.h
+stbi_DDS_aug_c.h
+/Users/sami/Desktop/Classes/Computer Graphics/assignment3/src/SOIL/stbi_DDS_aug_c.h
+

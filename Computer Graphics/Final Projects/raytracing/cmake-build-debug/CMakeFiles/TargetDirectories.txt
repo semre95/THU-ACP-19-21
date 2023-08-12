@@ -1,0 +1,3 @@
+/Users/sami/Desktop/raytracing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sami/Desktop/raytracing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sami/Desktop/raytracing/cmake-build-debug/CMakeFiles/ray_tracing.dir
